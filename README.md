@@ -1,32 +1,21 @@
-# <div align = center> Oláres!! :wave: </div>
-<div align = "justify">
-  Me chamo Eliza Pimentel, sou formada em turismo 🛫 e agora estudante de Análise e desenvolvimento de Sistemas 💻 e Desenvolvedora Back end em formação na <b>{reprograma}</b>. 
-  No momento estou dedicada a mudança de área, em busca de oportunidades na área para aperfeiçoar cade vez mais meus conhecimentos.
-  
-  #### Estudando:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  
-  
-  #### Ferramentas que uso:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
-  
-  </div> 
 
-# <div align = center> Hello!! :wave: </div>
+# <div align = center> Hey!! :wave: </div>
 <div align = "justify">
-  My name is Eliza Pimentel, I've a bachellor degree in tourism 🛫 and now I'm studying Sistems Development 💻 and also Back end Developer in training at <b> {reprograma} </b>. Now I'm dedicated to changing area, looking forward for oportunities in tech to improve my skills and become a better professional.
+  My name is Eliza, I've a bachellor degree in tourism 🛫 and now I'm studying Software Development 💻 at college and also Backend at <b> {reprograma} </b>. 
   
    #### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   
   
   #### Tools I'm using:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+          
+  
+          
   
   </div>
 
