@@ -1,10 +1,11 @@
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elizapimentel.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 # <div align = center> Hey!! :wave: </div>
 <div align = "justify">
   My name is Eliza, I've a bachellor degree in tourism 🛫 and now I'm studying Software Development 💻 at college and also Backend at <b> {reprograma} </b>. 
   
    #### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   
   
   #### Tools I'm using:
@@ -13,14 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-          
-  
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/eclipse-icon.png" width="40" height="40"/>
+   
           
   
   </div>
 
 
-# <div align = center> Follow me: :arrow_down:</div>
+# <div align = center> Follow me: </div>
 
 <div align = "center">
    
