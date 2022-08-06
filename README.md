@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elizapimentel.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 # <div align = center> Hey!! :wave: </div>
 <div align = "justify">
-  My name is Eliza, I've a bachellor degree in tourism 🛫 and now I'm studying Software Development 💻 at college and also Backend at <b> {reprograma} </b>. 
+  I am Eliza, I've a bachellor degree in tourism 🛫 and now I'm studying Software Analysis and Development 💻 at college. I'm a Backend Developer in Node.js and so on...
   
    #### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
