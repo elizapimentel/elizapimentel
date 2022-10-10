@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elizapimentel.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
 # <div align = center> Hey!! :wave: </div>
 <div align = "justify">
   I am Eliza, I've a bachellor degree in tourism 🛫 and now I'm studying Software Analysis and Development 💻 at college. I'm a Backend Developer in Node.js and so on...
