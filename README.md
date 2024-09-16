@@ -1,7 +1,7 @@
 
 # <div align = center> Hey!! :wave: </div>
 <div align = "justify">
-  I am Eliza, I'm a student od Software Analysis and Development at college. I'm a Backend Developer, starting to become a Fullstack one.
+  Hello, I'm a Software Developer.
   
    #### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
