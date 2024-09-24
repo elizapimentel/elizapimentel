@@ -1,7 +1,7 @@
 
 # <div align = center> Hey!! :wave: </div>
 <div align = "justify">
-  Hello, I'm a Software Developer.
+  I'm an entry level Software Developer.
   
    #### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
